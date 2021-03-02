@@ -1,4 +1,4 @@
-<h1 align="center">Hello there <img src="https://github.com/mathijshudepohl/mathijshudepohl/blob/master/Hi.gif" height="40px">!</h1>
+# Hello there! <img src="https://github.com/mathijshudepohl/mathijshudepohl/blob/master/Hi.gif" height="40px">
 
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning Ruby
